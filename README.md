@@ -1,13 +1,11 @@
 # EC120 Study Lab
 
-An offline-capable study app with 128 original practice questions, a foundation guide, graph exercises, and timed mock exams.
+Study practice for Chapters 1–8 only: 114 questions, foundation notes, a 40-question timed mock, and a dedicated graph-only lab with 14 draggable exercises.
 
-## Hosting
-In the repository Settings > Pages, deploy from the main branch and the root folder.
+Drag demand and supply curves horizontally, or move a point along an unchanged curve for own-price changes. The graph displays before/after price and quantity, grades the drawing, and explains the economic reasoning. Sliders support touch and keyboard input. Shift sizes are illustrative.
 
-## Privacy
-Answers and statistics stay in browser storage. No analytics or server-side collection. Export progress to keep a backup or share it deliberately. Original lecture PDFs are not included.
+Chapters 9–10 and the extra-scope historical mock have been removed. Original source PDFs are not published.
 
-## Scope
-Based on EC120 Fall 2026 lecture topics, Chapters 1–8. Unofficial practice material, not an official examination or a replacement for assigned textbook work. Short answers are self-assessed. A separate 2025-style mock includes Chapters 9–10 as extra scope; the 2026 core mock covers Chapters 1–8. Original source PDFs are not distributed.
+Progress is stored locally in each browser, with graph attempts recorded separately and included in exported backups. Existing core quiz progress is preserved. No analytics or server-side result collection.
 
+Live website: https://jeriahmathew21-maker.github.io/ec120-study-lab/
