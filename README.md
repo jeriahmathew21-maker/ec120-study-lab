@@ -9,3 +9,4 @@ Chapters 9–10 and the extra-scope historical mock have been removed. Original 
 Progress is stored locally in each browser, with graph attempts recorded separately and included in exported backups. Existing core quiz progress is preserved. No analytics or server-side result collection.
 
 Live website: https://jeriahmathew21-maker.github.io/ec120-study-lab/
+Open “Graph-only practice” on the dashboard to begin.
