@@ -1,12 +1,9 @@
 # EC120 Study Lab
 
-Study practice for Chapters 1–8 only: 114 questions, foundation notes, a 40-question timed mock, and a dedicated graph-only lab with 14 draggable exercises.
+Chapters 1–8 only. Includes 114 foundation questions, a 40-question timed core mock, 14 draggable graph exercises, and a separate 200-question midterm challenge (25 new questions per chapter, including 12 numerical diagrams).
 
-Drag demand and supply curves horizontally, or move a point along an unchanged curve for own-price changes. The graph displays before/after price and quantity, grades the drawing, and explains the economic reasoning. Sliders support touch and keyboard input. Shift sizes are illustrative.
+The challenge is one mixed, untimed sequence with per-answer explanations, reasoning and confidence fields, and saved position. Use Save & dashboard and Resume session to continue over several sittings. Progress exports include challenge answers and graph attempts.
 
-Chapters 9–10 and the extra-scope historical mock have been removed. Original source PDFs are not published.
+All results stay in each browser. Original PDFs and personal progress are not published. Export backups to retain or share results deliberately. Original practice content is not an official exam.
 
-Progress is stored locally in each browser, with graph attempts recorded separately and included in exported backups. Existing core quiz progress is preserved. No analytics or server-side result collection.
-
-Live website: https://jeriahmathew21-maker.github.io/ec120-study-lab/
-Open “Graph-only practice” on the dashboard to begin.
+Website: https://jeriahmathew21-maker.github.io/ec120-study-lab/
